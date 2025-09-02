@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;">🌐 Socials </h2>
+## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;">🌐 Social Media</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-ikram)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishikram818@gmail.com) 
 
