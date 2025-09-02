@@ -1,9 +1,23 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> This is Danish Ikram</h1>
+<h2 align="center" style="font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;">
+  Hola, 
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+       alt="Waving hand animated gif"
+       height="45"
+       width="45" /> 
+  This is Danish Ikram
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NabeekhAbid&label=Views&color=blue&style=plastic&style=for-the-badge" alt="NabeekhAbid" /> </p>
+
+<p style="font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;">
+	<h1 style="font-family: 'Segoe UI Light', 'Segoe UI', sans-serif;"># 💫 About Me :</h1>
+	<ul>
+<li>- 😄 Pronouns: He/His</li>
+<li>- 💼 Full-Stack Web Developer | Node.js Specialist | Cloud-Ready Solutions.</li>
+<li>- 💬 Ask me about ReactJS/NodeJs or any tech-related stuff.</li>
+<li>- 📫 How to reach me: Check social links below.</li>
+	</ul>
+ </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
