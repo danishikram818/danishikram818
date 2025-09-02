@@ -41,8 +41,8 @@
 ## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;"> GitHub Stats </h2>
 <p align="left">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danishikram818&show_icons=true&theme=vue" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue" alt="GitHub Streak Stats" style="width: 400px; display: block; margin: auto;" />	
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue"/> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue" alt="GitHub Streak Stats" style="width: 400px; display: block; margin: auto;" />	 -->
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue"/>
  </p>
 
 ### <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;">Random Dev Quote</h2>
